@@ -22,7 +22,6 @@ task/
 │   ├── models/           
 │   │   └──message.py        ✅ Complete
 │   ├── app.py                🚧 TODO: implement logic
-│   ├── promps.py             🚧 TODO: write system prompt
 │   ├── dial_client.py        🚧 TODO: implement logic
 │   └── mcp_cleint.py         🚧 TODO: implement logic
 └── mcp_server/               
@@ -42,8 +41,6 @@ task/
 - Postman
 
 ## ✍️ Tasks:
-If the task in the main branch is hard for you, then switch to the `with-detailed-description` branch
-
 You need to implement the Users Management Agent, that will be able to perform CRUD operations within User Management Service.
 
 ### Create and run MCP server:
